@@ -1,0 +1,1 @@
+There was time when after vacation were many task related messages. It was overwhelming to read one by one and to to do, so there was idea that I could collect those messages into one folder and just rename them for faster work mobility. Script renames messages according to what information is into them relating to tasks.
